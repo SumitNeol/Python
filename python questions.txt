@@ -1,0 +1,2 @@
+write a program to merge two lists into a single list?
+write a code to elaborate slicing in on list elements?
